@@ -15,6 +15,8 @@ public class OneWay extends core {
 	public void beforeTestCode()
 	{
 		System.out.println("beforeTestCode");
+//		changes has made by tarun on 18-03-2023
+		System.out.println("hellow");
 	}
 	
 	@AfterTest()
