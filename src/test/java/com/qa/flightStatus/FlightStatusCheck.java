@@ -9,6 +9,12 @@ public class FlightStatusCheck {
 	{
 		System.out.println("FlightStatusCheck1");
 	}
+	public class Flightstatus{
+		{
+			System.out.println("booking has done");
+		}
+		
+	}
 	
 
 }
